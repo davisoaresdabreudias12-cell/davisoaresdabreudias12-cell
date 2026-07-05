@@ -1,7 +1,7 @@
 ## Olá, eu sou o Davi 👋
 
 
-### Estudante do EM e TI no Instituto Federal do Sul de Minas Gerais - Campus Machado
+### Estudante de Ti integrado ao EM no IFSULDEMINAS - Campus Machado
 
 
 
