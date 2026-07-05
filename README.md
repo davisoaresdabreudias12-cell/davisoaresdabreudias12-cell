@@ -1,8 +1,16 @@
 ## Olá, eu sou o Davi 👋
 
+📖 Sobre mim: 
 
-### Estudante de Ti integrado ao EM no IFSULDEMINAS - Campus Machado
+‼️ Importante:
 
+### 💻 Estudante de TI integrado ao EM no IFSULDEMINAS - Campus Machado
+
+### 📄 Buscando meios de aprender Web com JS, HTML e CSS
+
+❗ Resumo:
+
+  Tenho como principal objetivo ser um Full Stack Developer com conhecimento de JS, HTML e CSS de forma imediata e no futuro aprender Java e Python. 
 
 
 
